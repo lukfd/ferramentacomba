@@ -1,5 +1,6 @@
 # Simple workflow for deploying static content
 # Originally from https://github.com/lukfd/lukfd.github.io/blob/master/.github/workflows/main.yaml
+# And https://dev.to/mwoodson11/create-deployment-pipeline-for-react-app-on-hostinger-5bc9
 name: Deployment
 
 on:

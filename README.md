@@ -1,5 +1,5 @@
 # Ferramenta Comba
 
-Accessible at [ferramentacomba.it](https://ferramentacomba.it)
+Accessible at [ferramentacomba.com](https://ferramentacomba.com)
 
 Written by Luca Comba for Albino Comba.
