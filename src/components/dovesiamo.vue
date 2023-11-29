@@ -40,7 +40,7 @@
         </div>
       </div>
     </div>
-    <div class="flex items-center gap-x-6 py-12">
+    <div class="flex items-center gap-x-6 pt-12">
       <iframe
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2818.116499207609!2d7.5160152757595755!3d45.063147771070255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47886aa7889530b9%3A0xa499c322e34e6a91!2sFerramenta%20Comba!5e0!3m2!1sen!2sus!4v1701146294391!5m2!1sen!2sus"
         width="980rem"

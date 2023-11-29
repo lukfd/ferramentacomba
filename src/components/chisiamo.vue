@@ -1,37 +1,49 @@
 <template>
   <div class="bg-white">
-    <div
-      class="mx-auto grid max-w-7xl gap-x-8 gap-y-20 px-6 lg:px-8 xl:grid-cols-3"
-    >
+    <div class="mx-auto grid max-w-7xl gap-x-8 px-6 lg:px-8 xl:grid-cols-2">
       <div class="max-w-2xl">
         <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-          Meet our leadership
+          Chi siamo
         </h2>
         <p class="mt-6 text-lg leading-8 text-gray-600">
-          Libero fames augue nisl porttitor nisi, quis. Id ac elit odio vitae
-          elementum enim vitae ullamcorper suspendisse.
+          Ferramenta Comba inizia la sua attività di vendita al minuto di
+          ferramenta nell'agosto del 1985 per iniziativa di Albino e Marco Comba
+          con l'aiuto di papà Angelo. Dall'inizio a oggi l'azienda cresce per
+          soddisfare le esigenze della propria clientela ampliando continuamente
+          la sua gamma di articoli di ferramenta spaziando anche in altri
+          settori.
         </p>
       </div>
-      <ul
-        role="list"
-        class="grid gap-x-8 gap-y-12 sm:grid-cols-2 sm:gap-y-16 xl:col-span-2"
-      >
-        <li v-for="person in people" :key="person.name">
-          <div class="flex items-center gap-x-6">
-            <img class="h-16 w-16 rounded-full" :src="person.imageUrl" alt="" />
-            <div>
-              <h3
-                class="text-base font-semibold leading-7 tracking-tight text-gray-900"
-              >
-                {{ person.name }}
-              </h3>
-              <p class="text-sm font-semibold leading-6 text-indigo-600">
-                {{ person.role }}
-              </p>
+      <div class="flex">
+            <img src="/public/people/angelo.png" alt="">
+        </div>
+    </div>
+    <div class="flex py-12">
+        <ul
+          role="list"
+          class="grid gap-x-12 gap-y-6 sm:grid-cols-3 sm:gap-y-12 xl:col-span-3"
+        >
+          <li v-for="person in people" :key="person.name">
+            <div class="flex items-center gap-x-2">
+              <img
+                class="h-20 w-20 rounded-full"
+                style="object-fit: cover"
+                :src="person.imageUrl"
+                alt=""
+              />
+              <div>
+                <h3
+                  class="text-base font-semibold leading-7 tracking-tight text-gray-900"
+                >
+                  {{ person.name }}
+                </h3>
+                <p class="text-sm font-semibold leading-6 text-indigo-600">
+                  {{ person.role }}
+                </p>
+              </div>
             </div>
-          </div>
-        </li>
-      </ul>
+          </li>
+        </ul>
     </div>
   </div>
 </template>
@@ -39,11 +51,16 @@
 <script setup>
 const people = [
   {
-    name: 'Leslie Alexander',
-    role: 'Co-Founder / CEO',
-    imageUrl:
-      'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+    name: 'Angelo Comba',
+    imageUrl: '/people/angelo2.png',
   },
-  // More people...
+  {
+    name: 'Albino Comba',
+    imageUrl: '/people/albino2.png',
+  },
+  {
+    name: 'Marco Comba',
+    imageUrl: '/people/marco.png',
+  }
 ]
 </script>

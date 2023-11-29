@@ -15,13 +15,13 @@
     </div>
 
     <div class="relative isolate px-6 pt-14 lg:px-8" id="orari">
-      <div class="mx-auto max-w-5xl py-16 sm:pt-16 sm:pb-30 lg:pt-10 lg:py-56">
+      <div class="mx-auto max-w-5xl py-2 sm:pt-16 sm:pb-30 lg:pt-10 lg:py-56">
         <orari />
       </div>
     </div>
 
     <div class="relative isolate px-6 pt-14 lg:px-8" id="dovesiamo">
-      <div class="mx-auto max-w-5xl pt-2 pb-16 sm:pt-2 sm:pb-30 lg:pt-2 lg:py-56">
+      <div class="mx-auto max-w-5xl pt-2 sm:pt-2 sm:pb-30 lg:pt-2 lg:py-56">
         <dovesiamo />
       </div>
     </div>
