@@ -12,19 +12,19 @@
         </h5>
       </div>
       <div class="hidden md:flex absolute bottom-14 right-20" style="z-index: -2;">
-        <img src="/selected/chiavi1.JPG" class="rounded-md h-48 w-62" />
+        <img src="/selected/chiavi1.jpg" class="rounded-md h-48 w-62" />
       </div>
       <div class="hidden md:flex absolute" style="z-index: -2; bottom: -1rem; left: 45rem;">
-        <img src="/selected/chiavi2.JPG" class="rounded-md h-48 w-62" />
+        <img src="/selected/chiavi2.jpg" class="rounded-md h-48 w-62" />
       </div>
       <div class="hidden md:flex absolute" style="z-index: -2; top: 11rem; left: 65rem;">
-        <img src="/selected/interno.JPG" class="rounded-md h-48 w-62" />
+        <img src="/selected/interno.jpg" class="rounded-md h-48 w-62" />
       </div>
       <div class="hidden md:flex absolute" style="z-index: -2; bottom: -2rem; left: 2rem;">
-        <img src="/selected/sait.JPG" class="rounded-md h-48 w-62" />
+        <img src="/selected/sait.jpg" class="rounded-md h-48 w-62" />
       </div>
       <div class="hidden md:flex absolute" style="z-index: -2; top: 5rem; right: 22rem;">
-        <img src="/selected/wd40.JPG" class="rounded-md h-32 w-54" />
+        <img src="/selected/wd40.jpg" class="rounded-md h-32 w-54" />
       </div>
     </div>
 
