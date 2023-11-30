@@ -1,16 +1,30 @@
 <template>
   <div class="bg-white">
-    
     <myheader />
 
     <div class="relative isolate px-6 pt-14 lg:px-8">
-      <div class="mx-auto max-w-5xl py-16 sm:py-30 lg:py-56">
+      <div class="mx-auto max-w-5xl py-16 sm:py-30 lg:py-56 z-50">
         <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
           Qualità, Esperienza e Cortesia
         </h1>
         <h5 class="text-1xl tracking-tight text-gray-900 sm:text-2xl">
           al vostro servizio dal 1985
         </h5>
+      </div>
+      <div class="hidden md:flex absolute bottom-14 right-20" style="z-index: -2;">
+        <img src="/selected/chiavi1.JPG" class="rounded-md h-48 w-62" />
+      </div>
+      <div class="hidden md:flex absolute" style="z-index: -2; bottom: -1rem; left: 45rem;">
+        <img src="/selected/chiavi2.JPG" class="rounded-md h-48 w-62" />
+      </div>
+      <div class="hidden md:flex absolute" style="z-index: -2; top: 11rem; left: 65rem;">
+        <img src="/selected/interno.JPG" class="rounded-md h-48 w-62" />
+      </div>
+      <div class="hidden md:flex absolute" style="z-index: -2; bottom: -2rem; left: 2rem;">
+        <img src="/selected/sait.JPG" class="rounded-md h-48 w-62" />
+      </div>
+      <div class="hidden md:flex absolute" style="z-index: -2; top: 5rem; right: 22rem;">
+        <img src="/selected/wd40.JPG" class="rounded-md h-32 w-54" />
       </div>
     </div>
 
