@@ -7,7 +7,7 @@
       <div class="flex lg:flex-1">
         <a href="#" class="-m-1.5 p-1.5">
           <span class="sr-only">Ferramenta Comba</span>
-          <img class="h-8 w-auto" src="public/logo.svg" alt="" />
+          <img class="h-8 w-auto" src="/logo.svg" alt="" />
         </a>
         <div class="lg:flex lg:gap-x-12 px-10">
           <h4 class="text-sm font-semibold leading-6 text-gray-900">
