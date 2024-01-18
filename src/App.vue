@@ -11,20 +11,23 @@
           al vostro servizio dal 1985
         </h5>
       </div>
-      <div class="hidden md:flex absolute bottom-14 right-20" style="z-index: -2;">
-        <img src="/selected/chiavi1.jpg" class="rounded-md h-48 w-62" />
+      <div class="hidden md:flex absolute top-28 left-8" style="z-index: -2;">
+        <img src="selected/chiavi1.jpg" class="rounded-md h-40" />
       </div>
-      <div class="hidden md:flex absolute" style="z-index: -2; bottom: -1rem; left: 45rem;">
-        <img src="/selected/chiavi2.jpg" class="rounded-md h-48 w-62" />
+      <div class="hidden md:flex absolute top-32 right-8" style="z-index: -2;">
+        <img src="selected/chiavi2.jpg" class="rounded-md h-48 w-62" />
       </div>
-      <div class="hidden md:flex absolute" style="z-index: -2; top: 11rem; left: 65rem;">
-        <img src="/selected/interno.jpg" class="rounded-md h-48 w-62" />
+      <div class="hidden md:flex absolute bottom-0 left-8" style="z-index: -2;">
+        <img src="selected/interno.jpg" class="rounded-md h-48 w-62" />
       </div>
-      <div class="hidden md:flex absolute" style="z-index: -2; bottom: -2rem; left: 2rem;">
-        <img src="/selected/sait.jpg" class="rounded-md h-48 w-62" />
+      <div class="hidden md:flex absolute top-40 right-40" style="z-index: -2;">
+        <img src="selected/sait.jpg" class="rounded-md h-48 w-62" />
       </div>
-      <div class="hidden md:flex absolute" style="z-index: -2; top: 5rem; right: 22rem;">
-        <img src="/selected/wd40.jpg" class="rounded-md h-32 w-54" />
+      <div class="hidden md:flex absolute bottom-2 right-80 left-80" style="z-index: -2;">
+        <img src="selected/wd40.jpg" class="rounded-md h-32 w-54" />
+      </div>
+      <div class="hidden md:flex absolute bottom-14 right-24" style="z-index: -2;">
+        <img src="avviso.svg" height="225rem" width="500rem" />
       </div>
     </div>
 
