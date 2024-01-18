@@ -7,7 +7,7 @@
       <div class="flex lg:flex-1">
         <a href="#" class="-m-1.5 p-1.5">
           <span class="sr-only">Ferramenta Comba</span>
-          <img class="h-8 w-auto" src="logo.svg" alt="" />
+          <img class="h-8 w-auto" src="public/logo.svg" alt="" />
         </a>
         <div class="lg:flex lg:gap-x-12 px-10">
           <h4 class="text-sm font-semibold leading-6 text-gray-900">
@@ -55,7 +55,7 @@
         <div class="flex items-center justify-between">
           <a href="#" class="-m-1.5 p-1.5">
             <span class="sr-only">Ferramenta Comba</span>
-            <img class="h-8 w-auto" src="logo.svg" alt="" />
+            <img class="h-8 w-auto" src="public/logo.svg" alt="" />
           </a>
           <button
             type="button"
@@ -111,27 +111,27 @@ const navigation = [
 const socials = [
   {
     name: 'phone',
-    logo: 'logo/phone-solid.svg',
+    logo: 'public/logo/phone-solid.svg',
     url: 'tel:0119581248',
   },
   {
     name: 'email',
-    logo: 'logo/envelope-solid.svg',
+    logo: 'public/logo/envelope-solid.svg',
     url: 'mailto:ferramentacomba@gmail.com',
   },
   {
     name: 'facebook',
-    logo: 'logo/square-facebook.svg',
+    logo: 'public/logo/square-facebook.svg',
     url: 'https://www.facebook.com/ferramentacombarivoli',
   },
   {
     name: 'x',
-    logo: 'logo/x-twitter.svg',
+    logo: 'public/logo/x-twitter.svg',
     url: 'https://twitter.com/ferramentacomba',
   },
   {
     name: 'google',
-    logo: 'logo/google.svg',
+    logo: 'public/logo/google.svg',
     url: 'https://maps.app.goo.gl/zvQnQKWhpYugg9uE7',
   }
 ]

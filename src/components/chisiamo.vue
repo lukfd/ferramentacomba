@@ -52,15 +52,15 @@
 const people = [
   {
     name: 'Angelo Comba',
-    imageUrl: 'people/angelo2.png',
+    imageUrl: 'public/people/angelo2.png',
   },
   {
     name: 'Albino Comba',
-    imageUrl: 'people/albino2.png',
+    imageUrl: 'public/people/albino2.png',
   },
   {
     name: 'Marco Comba',
-    imageUrl: 'people/marco.png',
+    imageUrl: 'public/people/marco.png',
   }
 ]
 </script>
