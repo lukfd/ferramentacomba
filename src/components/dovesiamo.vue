@@ -30,7 +30,7 @@
             >
               <img
                 class="h-5 w-auto px-2"
-                src="public/logo/envelope-solid.svg"
+                src="/logo/envelope-solid.svg"
                 alt=""
               />
 
