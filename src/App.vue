@@ -29,6 +29,10 @@
       <div class="hidden md:flex absolute bottom-14 right-24" style="z-index: -2;">
         <img src="/avviso.svg" height="225rem" width="500rem" />
       </div>
+      <div class="md:invisible">
+        <p><img src="/bag-shopping-solid.svg" class="h-20 w-20 float-left mr-4"/>Avvisiamo la gentile clientela che presso la nostra attività è in corso una svendita totale degli articoli a magazzino per fine attività.</p>
+        <br/><p>Invitiamo chi è interessato a venirci a trovare per approfittare delle offerte in corso.</p>
+      </div>
     </div>
 
     <div class="relative isolate px-6 pt-14 lg:px-8" id="orari">
