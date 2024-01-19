@@ -15,7 +15,7 @@
         </p>
       </div>
       <div class="flex">
-            <img src="/people/angelo.png" alt="">
+            <img src="/angelo.png" alt="">
         </div>
     </div>
     <div class="flex py-12">
@@ -52,15 +52,15 @@
 const people = [
   {
     name: 'Angelo Comba',
-    imageUrl: '/people/angelo2.png',
+    imageUrl: '/angelo2.png',
   },
   {
     name: 'Albino Comba',
-    imageUrl: '/people/albino2.png',
+    imageUrl: '/albino2.png',
   },
   {
     name: 'Marco Comba',
-    imageUrl: '/people/marco.png',
+    imageUrl: '/marco.png',
   }
 ]
 </script>

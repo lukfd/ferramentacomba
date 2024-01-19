@@ -111,27 +111,27 @@ const navigation = [
 const socials = [
   {
     name: 'phone',
-    logo: '/logo/phone-solid.svg',
+    logo: '/phone-solid.svg',
     url: 'tel:0119581248',
   },
   {
     name: 'email',
-    logo: '/logo/envelope-solid.svg',
+    logo: '/envelope-solid.svg',
     url: 'mailto:ferramentacomba@gmail.com',
   },
   {
     name: 'facebook',
-    logo: '/logo/square-facebook.svg',
+    logo: '/square-facebook.svg',
     url: 'https://www.facebook.com/ferramentacombarivoli',
   },
   {
     name: 'x',
-    logo: '/logo/x-twitter.svg',
+    logo: '/x-twitter.svg',
     url: 'https://twitter.com/ferramentacomba',
   },
   {
-    name: 'google',
-    logo: '/logo/google.svg',
+    name: 'maps',
+    logo: '/location-dot-solid.svg',
     url: 'https://maps.app.goo.gl/zvQnQKWhpYugg9uE7',
   }
 ]
